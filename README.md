@@ -14,6 +14,11 @@ Structure:
 /dashboards - dashboard examples that may or may not work for you
 
 Dashboard Examples:
+Overview Dashboard
 ![overview dashboard](dashboards/examples/overview_dash.JPG)
 
+Nanopool Dashboard
+![Nanopool dashboard](dashboards/examples/nanopool_dash.JPG)
 
+Market Dashboard
+![Market Dashboard](dashboards/examples/market_dash.JPG)
